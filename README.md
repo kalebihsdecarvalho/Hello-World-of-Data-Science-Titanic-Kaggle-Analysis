@@ -1,2 +1,2 @@
 # Hello-World-of-Data-Science-Titanic-Kaggle-Analysis
-O problema do Desafio Titanic é um problema de classificação binária, onde o objetivo é prever se um passageiro sobreviveu (1) ou não (0) ao naufrágio.
+O Desafio Titanic do Kaggle é uma competição de aprendizado de máquina onde os participantes devem prever quais passageiros do Titanic sobreviveram ao naufrágio. Utilizando dados históricos reais, como idade, sexo, classe de viagem e outras características, o objetivo é treinar um modelo que faça previsões de sobrevivência. É um projeto popular para iniciantes em ciência de dados, envolvendo técnicas de pré-processamento de dados, engenharia de features e classificação.
